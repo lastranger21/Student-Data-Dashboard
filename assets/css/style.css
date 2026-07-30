@@ -1,0 +1,15 @@
+.title-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding :12px 20px;
+}
+.avg-score{
+    display: flex;
+    justify-content: flex-end;
+    padding: 8px 20px 0;
+}
+
+.avg-score p {
+    margin: 0;
+}
