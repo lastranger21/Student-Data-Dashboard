@@ -6,6 +6,12 @@
     padding: 12px 20px;
     gap: 16px;
 }
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: left;
+}
 
 .title-content form {
     flex: 1;
